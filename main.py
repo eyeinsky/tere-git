@@ -4,7 +4,7 @@
 # nyyd olen pythoni failis main.py
 
 while True:
+    print("\n") # lisasin tegelt rohkem, sorri :)
+    print('----------------------------')
     tekst = input('Ytle midagi pliis: ')
-    print(tekst)
-
-    # tehtud, salvestan ja v2ljun
+    print('Sa ytlesid: ' + tekst + '!')
