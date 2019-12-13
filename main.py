@@ -1,4 +1,5 @@
-
+# See on programm, mis palub kasutajal midagi 5elda
+# ja siis prindib selle v2lja.
 
 
 # nyyd olen pythoni failis main.py
